@@ -30,7 +30,7 @@
   <main class="container layout">
     <!-- Left column: photo, name, links -->
     <aside class="sidebar">
-      <img src="profile.jpg" alt="Photo of Harshit Sharma" class="avatar" />
+      <img src="Harshit Photo.jpg" alt="Photo of Harshit Sharma" class="avatar" />
       <h1 class="name">Harshit Sharma</h1>
       <p class="role">PhD Candidate in Economics</p>
       <p class="affiliation">
