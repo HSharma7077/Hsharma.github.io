@@ -56,7 +56,7 @@
           My research interests lie in behavioral and experimental economics, public policy,
           and electricity markets. I am particularly interested in how individuals and firms
           respond to incentives in complex, real-world environments. In my PhD, I plan to
-          conduct field experiments in India to study these questions in applied policy and
+          conduct field experiments to study these questions in applied policy and
           energy-market settings.
         </p>
         <p>
@@ -66,7 +66,7 @@
           behavioral economics, housing economics, and historical finance at ESCP Berlin, as
           well as prior research roles at the University of Cologne and the Max Planck
           Institute. I hold an M.Sc. in Economics (Research Track) from the University of
-          Cologne and a B.Sc. in Economics (Honours) from Doon University.
+          Cologne.
         </p>
       </section>
 
