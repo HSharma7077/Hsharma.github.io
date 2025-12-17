@@ -50,8 +50,7 @@
       <!-- Home / About -->
       <section id="home">
         <p>
-          I am a PhD candidate in Economics at ESCP Business School in Berlin, supervised by
-          Prof. Gonçalo Pina under the Chair of International Economics.
+          I am a PhD candidate in Economics at ESCP Business School in Berlin, working as a Research Assistant at the Chair of International Economics.
         </p>
         <p>
           My research interests lie in behavioral and experimental economics, public policy,
