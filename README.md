@@ -23,7 +23,7 @@ My current research agenda includes two working papers and two additional projec
           </p>
           <div class="social-links">
             <a href="hsharma@escp.eu">Email</a>
-            <a href="[https://www.linkedin.com](https://www.linkedin.com/in/harshitsharma13)" target="_blank" rel="noopener">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/harshitsharma13" target="_blank" rel="noopener">LinkedIn</a>
             <a href="https://github.com/HSharma7077" target="_blank" rel="noopener">GitHub</a>
           </div>
         </div>
