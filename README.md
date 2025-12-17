@@ -140,9 +140,9 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
     <section id="contact" class="card">
       <h3>Contact</h3>
       <p>
-        <strong>Email:</strong> <a href="mailto:you@example.com">you@example.com</a><br />
+        <strong>Email:</strong> <a href="mailto:hsharma@escp.eu">hsharma@escp.eu</a><br />
         <strong>Affiliation:</strong> ESCP Business School, [Campus]<br />
-        <strong>Office:</strong> [Room / Building]<br />
+        <strong>Office:</strong> [C-105]<br />
       </p>
       <p>
         I am happy to be contacted about research collaborations, teaching,
@@ -153,7 +153,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
 
   <footer class="site-footer">
     <div class="container">
-      <p>© 2025 Your Name · PhD Candidate at ESCP Business School</p>
+      <p>© 2025 Harshit Sharma · PhD Candidate at ESCP Business School</p>
     </div>
   </footer>
 </body>
