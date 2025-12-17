@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Your Name – PhD Candidate at ESCP</title>
+  <title>Harshit Sharma – PhD Candidate at ESCP</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Personal academic webpage of Your Name, PhD candidate at ESCP Business School." />
+  <meta name="description" content="Personal academic webpage of Harshit Sharma, PhD candidate at ESCP Business School." />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
