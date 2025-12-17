@@ -22,10 +22,9 @@
 My current research agenda includes two working papers and two additional projects, including one based on NFL performance data and another on housing markets and noise pollution. These build on my experience as a research assistant working on behavioral economics, housing economics, and historical finance at ESCP Berlin, as well as prior research roles at the University of Cologne and the Max Planck Institute on topics such as employee behavior, gender wage gaps, aging workforces, AI and the future of work, and team decision-making under cognitive biases. I hold an M.Sc. in Economics (Research Track) from the University of Cologne and a B.Sc. in Economics (Honours) from Doon University, alongside experience in development policy and survey work through positions at the German Institute of Development and Sustainability and the Annual Status of Education Report (ASER) initiative.
           </p>
           <div class="social-links">
-            <a href="mailto:you@example.com">Email</a>
-            <a href="https://scholar.google.com" target="_blank" rel="noopener">Google Scholar</a>
-            <a href="https://www.linkedin.com" target="_blank" rel="noopener">LinkedIn</a>
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener">GitHub</a>
+            <a href="hsharma@escp.eu">Email</a>
+            <a href="[https://www.linkedin.com](https://www.linkedin.com/in/harshitsharma13)" target="_blank" rel="noopener">LinkedIn</a>
+            <a href="https://github.com/HSharma7077" target="_blank" rel="noopener">GitHub</a>
           </div>
         </div>
       </div>
