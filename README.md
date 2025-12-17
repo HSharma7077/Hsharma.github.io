@@ -14,11 +14,12 @@
         <!-- Replace profile.jpg with your own image file name or remove the <img> if you don't have one yet -->
         <img src="profile.jpg" alt="Photo of Your Name" class="avatar" />
         <div>
-          <h1>Your Name</h1>
+          <h1>Harshit Sharma</h1>
           <h2>PhD Candidate · ESCP Business School</h2>
           <p class="tagline">
-            Short 2–3 line bio about your research interests, department,
-            and what you’re working on right now.
+            I am a PhD candidate in Economics at ESCP Business School in Berlin, supervised by Prof. Gonçalo Pina under the Chair of International Economics. My research interests lie at the intersection of behavioral and experimental economics, public policy, and electricity markets. I am particularly interested in how individuals and firms respond to incentives in complex, real-world environments, and I plan to conduct field experiments in India to study these questions in applied policy and energy-market settings.
+
+My current research agenda includes two working papers and two additional projects, including one based on NFL performance data and another on housing markets and noise pollution. These build on my experience as a research assistant working on behavioral economics, housing economics, and historical finance at ESCP Berlin, as well as prior research roles at the University of Cologne and the Max Planck Institute on topics such as employee behavior, gender wage gaps, aging workforces, AI and the future of work, and team decision-making under cognitive biases. I hold an M.Sc. in Economics (Research Track) from the University of Cologne and a B.Sc. in Economics (Honours) from Doon University, alongside experience in development policy and survey work through positions at the German Institute of Development and Sustainability and the Annual Status of Education Report (ASER) initiative.
           </p>
           <div class="social-links">
             <a href="mailto:you@example.com">Email</a>
