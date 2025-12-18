@@ -4,7 +4,11 @@
   <title>Harshit Sharma – PhD Candidate at ESCP</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="Personal academic webpage of Harshit Sharma, PhD candidate in Economics at ESCP Business School." />
-  <link rel="stylesheet" href="styles.css" />
+<link rel="stylesheet" href="styles.css" />
+<link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+/>
 </head>
 <body>
 
@@ -37,11 +41,19 @@
         ESCP Business School, Berlin<br />
         Chair of International Economics
       </p>
-      <div class="social-icons">
-        <a href="mailto:hsharma@escp.eu" aria-label="Email">✉</a>
-        <a href="https://www.linkedin.com/in/harshitsharma13" target="_blank" rel="noopener" aria-label="LinkedIn">in</a>
-        <a href="https://github.com/HSharma7077" target="_blank" rel="noopener" aria-label="GitHub">gh</a>
-      </div>
+   <div class="social-icons">
+  <a href="mailto:hsharma@escp.eu" aria-label="Email">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/harshitsharma13"
+     target="_blank" rel="noopener" aria-label="LinkedIn">
+    <i class="fa-brands fa-linkedin-in"></i>
+  </a>
+  <a href="https://github.com/HSharma7077"
+     target="_blank" rel="noopener" aria-label="GitHub">
+    <i class="fa-brands fa-github"></i>
+  </a>
+</div>
     </aside>
 
     <!-- Right column: content -->
@@ -53,8 +65,7 @@
           I am a PhD candidate in Economics at ESCP Business School in Berlin, working as a Research Assistant at the Chair of International Economics.
         </p>
         <p>
-          My research interests lie in behavioral and experimental economics, public policy,
-          and electricity markets. I am particularly interested in how individuals and firms
+          My research interests lie in behavioral and experimental economics. I am particularly interested in how individuals and firms
           respond to incentives in complex, real-world environments. In my PhD, I plan to
           conduct field experiments to study these questions in applied policy and
           energy-market settings.
