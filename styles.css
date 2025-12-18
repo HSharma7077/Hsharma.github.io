@@ -71,7 +71,7 @@ a:focus-visible {
 /* Sidebar (left column) */
 
 .sidebar {
-  width: 260px;
+  width: 300px;
   padding-right: 48px;
   text-align: left;
 }
