@@ -36,7 +36,7 @@
     <aside class="sidebar">
       <img src="Harshit Photo.jpg" alt="Photo of Harshit Sharma" class="avatar" />
       <h1 class="name">Harshit Sharma</h1>
-       <p class="role">PhD Candidate in Economics</p>
+       <p class="role">PhD Candidate</p>
   <p class="affiliation">ESCP Business School, Berlin</p>
       
    <div class="social-icons">
