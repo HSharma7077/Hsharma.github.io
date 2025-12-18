@@ -101,13 +101,31 @@ a:focus-visible {
 }
 
 .social-icons {
-  margin-top: 8px;
+  margin-top: 12px;
 }
 
+/* Round blue icons like in the example page */
 .social-icons a {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 2px solid #1a73e8;
   margin: 0 6px;
-  font-size: 20px;
+  color: #1a73e8;
+  text-decoration: none;
+}
+
+.social-icons a i {
+  font-size: 18px;
+}
+
+.social-icons a:hover {
+  background-color: #1a73e8;
+  color: #ffffff;
+}
 }
 
 /* Content (right column) */
