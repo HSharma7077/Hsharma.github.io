@@ -113,8 +113,7 @@ a:focus-visible {
 /* Content (right column) */
 
 .content {
-  flex: 1;
-  max-width: 720px;
+  flex: 1;   /* right column takes all remaining space */
 }
 
 .content section {
