@@ -36,11 +36,9 @@
     <aside class="sidebar">
       <img src="Harshit Photo.jpg" alt="Photo of Harshit Sharma" class="avatar" />
       <h1 class="name">Harshit Sharma</h1>
-      <p class="role">PhD Candidate in Economics</p>
-      <p class="affiliation">
-        ESCP Business School, Berlin<br />
-        Chair of International Economics
-      </p>
+       <p class="role">PhD Candidate in Economics</p>
+  <p class="affiliation">ESCP Business School, Berlin</p>
+      
    <div class="social-icons">
   <a href="mailto:hsharma@escp.eu" aria-label="Email">
     <i class="fa-solid fa-envelope"></i>
@@ -60,26 +58,35 @@
     <div class="content">
 
       <!-- Home / About -->
-      <section id="home">
-        <p>
-          I am a PhD candidate in Economics at ESCP Business School in Berlin, working as a Research Assistant at the Chair of International Economics.
-        </p>
-        <p>
-          My research interests lie in behavioral and experimental economics. I am particularly interested in how individuals and firms
-          respond to incentives in complex, real-world environments. In my PhD, I plan to
-          conduct field experiments to study these questions in applied policy and
-          energy-market settings.
-        </p>
-        <p>
-          My current research agenda includes two working papers and two additional projects,
-          including one using NFL performance data and another on housing markets and noise
-          pollution. These build on my experience as a research assistant working on
-          behavioral economics, housing economics, and historical finance at ESCP Berlin, as
-          well as prior research roles at the University of Cologne and the Max Planck
-          Institute. I hold an M.Sc. in Economics (Research Track) from the University of
-          Cologne.
-        </p>
-      </section>
+     <section id="home">
+  <p>
+    I am a PhD candidate in Economics at ESCP Business School in Berlin. My work sits at
+    the intersection of behavioural and experimental economics, public policy,
+    and electricity markets. I am particularly interested in how individuals and
+    firms respond to incentives in complex real-world environments, and I plan
+    to conduct field experiments in India to study these questions in applied
+    policy and energy-market settings.
+  </p>
+  <p>
+    Before starting my PhD, I completed an M.Sc. in Economics (Research Track)
+    at the University of Cologne and a B.Sc. in Economics (Honours) at Doon
+    University. During my studies in Cologne, I was supported by a PhD
+    scholarship from the Chair of Macroeconomics and worked as a research
+    assistant on projects in labour, behavioural, and macroeconomics. I have
+    also collaborated with colleagues at the Max Planck Institute, the German
+    Institute of Development and Sustainability (IDOS), and the Annual Status of
+    Education Report (ASER) initiative, gaining experience with large-scale
+    survey work and field-based research in India.
+  </p>
+  <p>
+    My current research agenda includes two working papers and two additional
+    projects, including one using NFL performance data and another on housing
+    markets and noise pollution. Across these projects, I use experimental and
+    applied microeconomic methods to study how policy design and institutional
+    details shape behaviour, with a particular focus on energy and
+    infrastructure sectors.
+  </p>
+</section>
 
       <!-- Research -->
       <section id="research">
