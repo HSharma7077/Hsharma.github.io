@@ -12,12 +12,7 @@
 </head>
 <body>
 
-  <!-- Top navigation bar -->
-<header class="site-header">
-  <div class="container top-bar-inner">
-    <a class="site-name" href="#home">Harshit Sharma</a>
-  </div>
-</header>
+ 
 
 
   <!-- Two-column layout -->
