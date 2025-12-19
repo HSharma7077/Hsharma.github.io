@@ -16,16 +16,6 @@
 <header class="site-header">
   <div class="container top-bar-inner">
     <a class="site-name" href="#home">Harshit Sharma</a>
-
-    <nav class="nav-links">
-      <a href="#home">Home</a>
-      <a href="cv.pdf" target="_blank" rel="noopener">CV</a>
-      <a href="#research">Research</a>
-      <a href="#policy">Policy</a>
-      <a href="#presentations">Presentations</a>
-      <a href="#teaching">Teaching</a>
-      <a href="#contact">Contact</a>
-    </nav>
   </div>
 </header>
 
