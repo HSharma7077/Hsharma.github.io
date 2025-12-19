@@ -105,12 +105,10 @@
         <h2>Teaching</h2>
         <ul>
           <li>
-            <strong>[Course name]</strong>, ESCP Business School, Berlin – 
-            [Instructor / TA], [Term, Year]
+            <strong>Microeconomics</strong>, ESCP Business School, Berlin – [WS, 2025]
           </li>
           <li>
-            <strong>[Course name]</strong>, [Institution] – 
-            [Role], [Term, Year]
+            <strong>Computer Skills</strong>, ESCP Business School, Berlin – [SS, 2026]
           </li>
         </ul>
       </section>
