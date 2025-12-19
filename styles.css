@@ -58,14 +58,14 @@ a:focus-visible {
 
 .nav-links {
   display: flex;
-  gap: 28px;
+  gap: 20px;
   justify-content: flex-start;
   align-items: center;
   flex-wrap: nowrap; /* prevents the nav from dropping to next line */
 }
 
 .nav-links a {
-  font-size: 16px;
+  font-size: 15px;
   color: #222;
   text-decoration: none;
   font-weight: 500;
