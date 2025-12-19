@@ -105,11 +105,11 @@
         <h3>Work in progress</h3>
         <ul>
           <li>
-            <strong>NFL project</strong><br />
+            <strong>NFL</strong><br />
             Using NFL play-by-play data to model field-goal make probability by distance and stadium conditions.
           </li>
           <li>
-            <strong>Housing and noise project</strong><br />
+            <strong>Housing and Noise</strong><br />
             Quantifying how environmental noise affects apartment prices using causal matching and machine-learning methods.
           </li>
         </ul>
