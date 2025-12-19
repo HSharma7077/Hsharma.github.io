@@ -27,12 +27,6 @@
   </div>
 </header>
 
-.top-bar-inner {
-  display: flex;
-  align-items: center;
-  justify-content: center; /* or flex-end if you prefer it right-aligned */
-  padding: 14px 0;
-}
 
   <!-- Two-column layout -->
   <main class="container layout">
