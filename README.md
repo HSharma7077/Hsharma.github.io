@@ -106,11 +106,11 @@
         <ul>
           <li>
             <strong>NFL project</strong><br />
-            [Short description of what you study with NFL performance data.]
+            [Using NFL play-by-play data to model field-goal make probability by distance and stadium conditions.]
           </li>
           <li>
             <strong>Housing and noise project</strong><br />
-            [Short description of the housing markets / noise pollution project.]
+            [Quantifying how environmental noise affects apartment prices using causal matching and machine-learning methods.]
           </li>
         </ul>
       </section>
