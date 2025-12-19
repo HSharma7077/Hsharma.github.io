@@ -13,11 +13,8 @@
 <body>
 
   <!-- Top navigation bar -->
-  <header class="top-bar">
-    <div class="container top-bar-inner">
-      <div class="brand">
-        Harshit Sharma
-      </div>
+<header class="top-bar">
+  <div class="container top-bar-inner">
       <nav class="nav-links">
         <a href="#home">Home</a>
         <a href="cv.pdf" target="_blank" rel="noopener">CV</a>
@@ -27,8 +24,15 @@
         <a href="#teaching">Teaching</a>
         <a href="#contact">Contact</a>
       </nav>
-    </div>
-  </header>
+  </div>
+</header>
+
+.top-bar-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* or flex-end if you prefer it right-aligned */
+  padding: 14px 0;
+}
 
   <!-- Two-column layout -->
   <main class="container layout">
