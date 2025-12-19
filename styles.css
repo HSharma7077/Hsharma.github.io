@@ -70,11 +70,12 @@ a:focus-visible {
 }
 
 .avatar {
-  width: 180px;
-  height: 180px;
+  width: 220px;
+  height: 220px;
   border-radius: 50%;
   object-fit: cover;
-  margin-bottom: 16px;
+  display: block;
+  margin: 0 auto 18px; /* centers the image and adds space below */
 }
 
 .name {
