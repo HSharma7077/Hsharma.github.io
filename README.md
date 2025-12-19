@@ -100,25 +100,6 @@
         </ul>
       </section>
 
-      <!-- Policy -->
-      <section id="policy">
-        <h2>Policy</h2>
-        <p>
-          [Add a short paragraph or bullet list on any policy reports, consulting,
-          or applied work you have done or are planning, especially related to
-          public policy and electricity markets.]
-        </p>
-      </section>
-
-      <!-- Presentations -->
-      <section id="presentations">
-        <h2>Presentations</h2>
-        <p>
-          [List conference and seminar presentations here, e.g. workshop name,
-          institution, year.]
-        </p>
-      </section>
-
       <!-- Teaching -->
       <section id="teaching">
         <h2>Teaching</h2>
