@@ -93,12 +93,12 @@
         <h3>Working papers</h3>
         <ul>
           <li>
-            <strong>[Working Paper 1 title]</strong><br />
-            [Brief 1–2 sentence description of the question, methods, and main result.]
+            <strong>Nudges and Reflection under Fragile Infrastructure: Evidence from a ToD Field Experiment in Urban India</strong><br />
+            Studies how different message formats affect peak-load reduction in a smart-meter setting with low trust and unstable supply.
           </li>
           <li>
-            <strong>[Working Paper 2 title]</strong><br />
-            [Brief 1–2 sentence description.]
+            <strong>Accepting Time-of-Day Tariffs in a Contested Rollout: A Choice Experiment from Urban India</strong><br />
+            Identifies households’ preferred ToD features and trade-off thresholds under unreliable supply
           </li>
         </ul>
 
@@ -106,7 +106,7 @@
         <ul>
           <li>
             <strong>NFL</strong><br />
-            Using NFL play-by-play data to model field-goal make probability by distance and stadium conditions.
+            Using play-by-play data to model field-goal make probability by distance and stadium conditions.
           </li>
           <li>
             <strong>Housing and Noise</strong><br />
