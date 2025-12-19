@@ -76,12 +76,14 @@ a:focus-visible {
 }
 
 .avatar {
-  width: 220px;
-  height: 220px;
+  width: 220px !important;
+  height: 220px !important;
+  max-width: none !important;
+  aspect-ratio: 1 / 1;
   border-radius: 50%;
   object-fit: cover;
   display: block;
-  margin: 0 auto 18px; /* centers the image and adds space below */
+  margin: 0 auto 18px; /* centers the image and adds a bit of space under it */
 }
 
 .name {
