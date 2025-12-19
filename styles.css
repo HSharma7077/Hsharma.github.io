@@ -25,9 +25,9 @@ a:focus-visible {
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0 auto;
-  padding: 0 24px;
+  padding: 0 16px;
 }
 
 /* Site Header */
@@ -64,8 +64,8 @@ a:focus-visible {
 /* Sidebar (left column) */
 
 .sidebar {
-  width: 400px;
-  padding-right: 58px;
+  width: 340px;
+  padding-right: 70px;
   text-align: left;
 }
 
@@ -128,7 +128,7 @@ a:focus-visible {
 
 .content {
   flex: 1;
-  max-width: 640px;
+  max-width: 760px;
 }
 
 .content section {
