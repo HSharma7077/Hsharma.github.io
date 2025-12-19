@@ -37,13 +37,6 @@ a:focus-visible {
   background-color: #ffffff;
 }
 
-.top-bar-inner {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 14px 0;
-}
-
 .brand {
   font-weight: 600;
   font-size: 18px;
