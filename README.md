@@ -118,7 +118,6 @@
         <h2>Contact</h2>
         <p>
           <strong>Email:</strong> <a href="mailto:hsharma@escp.eu">hsharma@escp.eu</a><br />
-          <strong>Affiliation:</strong> ESCP Business School, Berlin<br />
           <strong>Office:</strong> C-105
         </p>
       </section>
