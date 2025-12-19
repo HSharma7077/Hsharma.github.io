@@ -59,22 +59,20 @@
      <section id="home">
   <p>
     I am a PhD candidate in Economics at ESCP Business School in Berlin. My work sits at
-    the intersection of behavioural and experimental economics, public policy,
-    and electricity markets. I am particularly interested in how individuals and
+    the intersection of behavioural and experimental economics. I am particularly interested in how individuals and
     firms respond to incentives in complex real-world environments, and I plan
-    to conduct field experiments in India to study these questions in applied
+    to conduct field experiments to study these questions in applied
     policy and energy-market settings.
   </p>
   <p>
     Before starting my PhD, I completed an M.Sc. in Economics (Research Track)
-    at the University of Cologne and a B.Sc. in Economics (Honours) at Doon
-    University. During my studies in Cologne, I was supported by a PhD
+    at the University of Cologne. During my studies in Cologne, I was supported by a PhD
     scholarship from the Chair of Macroeconomics and worked as a research
     assistant on projects in labour, behavioural, and macroeconomics. I have
     also collaborated with colleagues at the Max Planck Institute, the German
     Institute of Development and Sustainability (IDOS), and the Annual Status of
     Education Report (ASER) initiative, gaining experience with large-scale
-    survey work and field-based research in India.
+    survey work and field-based research.
   </p>
   <p>
     My current research agenda includes two working papers and two additional
