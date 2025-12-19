@@ -33,29 +33,45 @@ a:focus-visible {
 /* Top bar */
 
 .top-bar {
-  border-bottom: 1px solid #e5e5e5;
-  background-color: #ffffff;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+  border-bottom: none;
 }
+
 .top-bar-inner {
-  display: flex;
+  display: grid;
+  grid-template-columns: 400px 1fr; /* SAME as .sidebar width */
+  column-gap: 58px;                /* SAME as .sidebar padding-right */
   align-items: center;
-  justify-content: space-between;
-  padding: 14px 0;
+  height: 76px;
+  padding: 0;                      /* grid + fixed height handles spacing */
 }
 
 .brand {
-  font-weight: 600;
-  font-size: 18px;
+  font-size: 34px;
+  font-weight: 700;
+  color: #1a73e8;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+/* Nav starts exactly above the right text column */
+.nav-links {
+  display: flex;
+  gap: 28px;
+  justify-content: flex-start;
 }
 
 .nav-links a {
-  margin-left: 18px;
-  font-size: 15px;
-  color: #333333;
+  margin-left: 0;     /* remove old spacing logic */
+  font-size: 16px;
+  color: #222;
+  text-decoration: none;
+  font-weight: 500;
 }
 
 .nav-links a:hover {
-  color: #0066cc;
+  color: #1a73e8;
 }
 
 /* Layout */
@@ -128,7 +144,6 @@ a:focus-visible {
 .social-icons a:hover {
   background-color: #1a73e8;
   color: #ffffff;
-}
 }
 
 /* Content (right column) */
