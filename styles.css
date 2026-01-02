@@ -199,3 +199,14 @@ a:focus-visible {
   max-width: 1000px;
   margin: 0 auto;
 }
+
+.content a,
+.affiliation a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.content a:hover,
+.affiliation a:hover {
+  text-decoration: underline;
+}
