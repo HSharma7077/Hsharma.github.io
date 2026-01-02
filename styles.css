@@ -210,3 +210,12 @@ a:focus-visible {
 .affiliation a:hover {
   text-decoration: underline;
 }
+
+.affiliation a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.affiliation a:hover {
+  text-decoration: underline;
+}
