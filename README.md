@@ -22,7 +22,9 @@
       <img src="Harshit Photo.jpg" alt="Photo of Harshit Sharma" class="avatar" />
       <h1 class="name">Harshit Sharma</h1>
        <p class="role">PhD Candidate</p>
-  <p class="affiliation">ESCP Business School, Berlin</p>
+<p class="affiliation">
+  <a href="https://escp.eu/" target="_blank" rel="noopener">ESCP Business School</a>, Berlin
+</p>
       
    <div class="social-icons">
   <a href="mailto:hsharma@escp.eu" aria-label="Email">
@@ -45,7 +47,7 @@
       <!-- Home / About -->
      <section id="home">
   <p>
-    I am a PhD candidate in Economics at ESCP Business School in Berlin. My work sits at
+    I am a PhD candidate in Economics at <a href="https://escp.eu/" target="_blank" rel="noopener">ESCP Business School</a> in Berlin. My work sits at
     the intersection of behavioural and experimental economics. I am particularly interested in how individuals and
     firms respond to incentives in complex real-world environments, and I plan
     to conduct field experiments to study these questions in applied
@@ -53,13 +55,14 @@
   </p>
   <p>
     Before starting my PhD, I completed an M.Sc. in Economics (Research Track)
-    at the University of Cologne. During my studies in Cologne, I was supported by a PhD
-    scholarship from the Chair of Macroeconomics and worked as a research
-    assistant on projects in labour, behavioural, and macroeconomics. I have
-    also collaborated with colleagues at the Max Planck Institute, the German
-    Institute of Development and Sustainability (IDOS), and the Annual Status of
-    Education Report (ASER) initiative, gaining experience with large-scale
-    survey work and field-based research.
+at the <a href="https://www.uni-koeln.de/en/" target="_blank" rel="noopener">University of Cologne</a>. During my studies in Cologne, I was supported by a PhD
+scholarship from the Chair of Macroeconomics and worked as a research
+assistant on projects in labour, behavioural, and macroeconomics. I have
+also collaborated with colleagues at the
+<a href="https://www.coll.mpg.de/" target="_blank" rel="noopener">Max Planck Institute</a>, the
+<a href="https://www.idos-research.de/" target="_blank" rel="noopener">German Institute of Development and Sustainability (IDOS)</a>, and the
+<a href="https://asercentre.org/" target="_blank" rel="noopener">Annual Status of Education Report (ASER)</a> initiative, gaining experience with large-scale
+survey work and field-based research.
   </p>
   <p>
     My current research agenda includes two working papers and two additional
