@@ -108,10 +108,10 @@ survey work and field-based research.
         <h2>Teaching</h2>
         <ul>
           <li>
-            <strong>Microeconomics</strong>, ESCP Business School, Berlin – [WS, 2025]
+            <strong>Computer Skills</strong>, ESCP Business School, Berlin – [SS, 2026]
           </li>
           <li>
-            <strong>Computer Skills</strong>, ESCP Business School, Berlin – [SS, 2026]
+            <strong>Microeconomics</strong>, ESCP Business School, Berlin – [WS, 2025]
           </li>
         </ul>
       </section>
@@ -121,7 +121,8 @@ survey work and field-based research.
         <h2>Contact</h2>
         <p>
           <strong>Email:</strong> <a href="mailto:hsharma@escp.eu">hsharma@escp.eu</a><br />
-          <strong>Office:</strong> C-105
+          <strong>Office:</strong> Heubnerweg 8-10, 14059 Berlin, Germany 
+          C-105
         </p>
       </section>
 
