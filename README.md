@@ -47,30 +47,21 @@
       <!-- Home / About -->
      <section id="home">
   <p>
-    I am a PhD candidate in Economics at <a href="https://escp.eu/" target="_blank" rel="noopener">ESCP Business School</a> in Berlin. My work sits at
-    the intersection of behavioural and experimental economics. I am particularly interested in how individuals and
-    firms respond to incentives in complex real-world environments, and I plan
-    to conduct field experiments to study these questions in applied
-    policy and energy-market settings.
+    I am a PhD candidate in Economics at <a href="https://escp.eu/" target="_blank" rel="noopener">ESCP Business School</a> in Berlin. My research sits at
+    the intersection of behavioural and experimental economics, focusing on how people respond to incentives when real-world conditions, such as limited trust, imperfect information, or unreliable infrastructure shape decisions.
   </p>
   <p>
-    Before starting my PhD, I completed an M.Sc. in Economics (Research Track)
-at the <a href="https://www.uni-koeln.de/en/" target="_blank" rel="noopener">University of Cologne</a>. During my studies in Cologne, I was supported by a PhD
-scholarship from the Chair of Macroeconomics and worked as a research
-assistant on projects in labour, behavioural, and macroeconomics. I have
-also collaborated with colleagues at the
-<a href="https://www.coll.mpg.de/" target="_blank" rel="noopener">Max Planck Institute</a>, the
+    A central strand of my research focuses on electricity markets. I study how households respond to incentives and information in applied policy environments, using experimental and applied microeconomic methods to generate evidence that can inform real-world policy design and implementation.
+  <p>
+  <p>
+    I use experimental and applied microeconomic methods, drawing on field experiments, choice experiments, and empirical analysis of survey and administrative data. I also work on projects in housing markets (environmental noise and prices) and performance-oriented environments where event-level data provide detailed measurement of behavior and outcomes.
+  <p>
+  <p>
+    I hold an M.Sc. in Economics (Research Track) from the 
+    <a href="https://www.uni-koeln.de/en/" target="_blank" rel="noopener">University of Cologne</a>. Prior to starting my PhD, I worked as a research assistant on projects in labour, behavioural, and macroeconomics, and collaborated with colleagues at the <a href="https://www.coll.mpg.de/" target="_blank" rel="noopener">Max Planck Institute</a>, the
 <a href="https://www.idos-research.de/" target="_blank" rel="noopener">German Institute of Development and Sustainability (IDOS)</a>, and the
 <a href="https://asercentre.org/" target="_blank" rel="noopener">Annual Status of Education Report (ASER)</a> initiative, gaining experience with large-scale
 survey work and field-based research.
-  </p>
-  <p>
-    My current research agenda includes two working papers and two additional
-    projects, including one using NFL performance data and another on housing
-    markets and noise pollution. Across these projects, I use experimental and
-    applied microeconomic methods to study how policy design and institutional
-    details shape behaviour, with a particular focus on energy and
-    infrastructure sectors.
   </p>
 </section>
 
