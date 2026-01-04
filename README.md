@@ -117,7 +117,7 @@ survey work and field-based research.
         </p>
       </section>
 
-    </div> 
+  </div> 
     </main>
 
   <footer class="site-footer">
@@ -126,6 +126,5 @@ survey work and field-based research.
     
     </div>
     </footer>
-
-</body>
-</html>
+    </body>
+    </html>
