@@ -63,9 +63,10 @@
 <a href="https://asercentre.org/" target="_blank" rel="noopener">Annual Status of Education Report (ASER)</a> initiative, gaining experience with large-scale
 survey work and field-based research.
   </p>
-  
-      <!-- Research -->
-      <section id="research">
+
+      </section>
+  <!-- Research -->
+      <section id="research">   
         <h2>Research</h2>
 
         <h3>Working papers</h3>
