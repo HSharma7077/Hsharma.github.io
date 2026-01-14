@@ -65,7 +65,8 @@ survey work and field-based research.
   </p>
 
 
- <section id="research">   
+  <!-- Research -->
+     <section id="research">   
         <h2>Research</h2>
 
         <h3>Working papers</h3>
