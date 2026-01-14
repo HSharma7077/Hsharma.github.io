@@ -71,7 +71,9 @@ survey work and field-based research.
 
 
 
-  <!-- Research -->
+  
+     </section>
+   <!-- Research -->
      <section id="research">   
         <h2>Research</h2>
 
