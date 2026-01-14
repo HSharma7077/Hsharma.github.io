@@ -65,6 +65,7 @@ survey work and field-based research.
   </p>
 
 
+     </section>
   <!-- Research -->
      <section id="research">   
         <h2>Research</h2>
@@ -116,15 +117,3 @@ survey work and field-based research.
           C-105
         </p>
       </section>
-
-    </div> 
-    </main>
-
-    <footer class="site-footer">
-    <div class="container">
-      © 2025 Harshit Sharma · PhD Candidate at ESCP Business School
-    
-    </div>
-    </footer>
-    </body>
-    </html>
