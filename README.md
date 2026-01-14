@@ -39,7 +39,7 @@
     <i class="fa-brands fa-github"></i>
   </a>
 </div>
-  <a href="cv.pdf" target="_blank" rel="noopener" aria-label="CV" class="cv-icon">
+  <a href="Curriculum Vitae.pdf" target="_blank" rel="noopener" aria-label="CV" class="cv-icon">
     CV
   </a>
     </aside>
