@@ -101,6 +101,13 @@ a:focus-visible {
   margin-top: 12px;
 }
 
+/* Make the CV text behave like an icon */
+.social-icons a.cv-icon {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1;
+}
+
 /* Round blue icons like in the example page */
 .social-icons a {
   display: inline-flex;
