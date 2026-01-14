@@ -117,10 +117,10 @@ survey work and field-based research.
         </p>
       </section>
 
-  </div> 
+    </div> 
     </main>
 
-  <footer class="site-footer">
+    <footer class="site-footer">
     <div class="container">
       © 2025 Harshit Sharma · PhD Candidate at ESCP Business School
     
