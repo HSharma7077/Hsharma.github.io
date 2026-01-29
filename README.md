@@ -38,10 +38,10 @@
      target="_blank" rel="noopener" aria-label="GitHub">
     <i class="fa-brands fa-github"></i>
   </a>
-</div>
   <a href="Curriculum Vitae.pdf" target="_blank" rel="noopener" aria-label="CV" class="cv-icon">
     CV
   </a>
+</div>
     </aside>
 
     <!-- Right column: content -->
@@ -55,10 +55,10 @@
   </p>
   <p>
     A central strand of my research focuses on electricity markets. I study how households respond to incentives and information in applied policy environments, using experimental and applied microeconomic methods to generate evidence that can inform real-world policy design and implementation.
-  <p>
+  </p>
   <p>
     I use experimental and applied microeconomic methods, drawing on field experiments, choice experiments, and empirical analysis of survey and administrative data. I also work on projects in housing markets (environmental noise and prices) and performance-oriented environments where event-level data provide detailed measurement of behavior and outcomes.
-  <p>
+  </p>
   <p>
     I hold an M.Sc. in Economics (Research Track) from the 
     <a href="https://www.uni-koeln.de/en/" target="_blank" rel="noopener">University of Cologne</a>. Prior to starting my PhD, I worked as a research assistant on projects in labour, behavioural, and macroeconomics, and collaborated with colleagues at the <a href="https://www.coll.mpg.de/" target="_blank" rel="noopener">Max Planck Institute</a>, the
